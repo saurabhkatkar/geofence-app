@@ -1,0 +1,5 @@
+
+- ionic-angular dependency has flaws its repo is not updated
+  to solve this used @ionic/angular dependency ..
+- watchpostion() error 
+  solve- add \ngx to geolocation module in import
