@@ -3,3 +3,6 @@
   to solve this used @ionic/angular dependency ..
 - watchpostion() error 
   solve- add \ngx to geolocation module in import
+- issue while npm install
+    npm ERR! Could not install from "android" as it does not contain a package.json file.
+  sol - remove 'android' folder from root directory
